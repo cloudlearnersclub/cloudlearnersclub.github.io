@@ -7,6 +7,7 @@ author: Raghavendra
 toc: true
 comments: true
 ![kubernetes](/images/pics%20(1).png){: width="450" height="236" }
+
 ---
 
 **Step-1 Create 3 VMs on a platform of your choice: Azure, AWS or GCP**
